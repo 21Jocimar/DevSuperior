@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('BERENICE MAIA GALETO', '53589823968', 7000.0, '1941-02-01', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('UZIEL DE SOUZA', '47875534968', 6500.0, '1962-10-05', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('JAIRO MAIA DE OLIVEIRA', '35310308920', 4000.0, '1972-01-11', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('ANA LUCIA DA SILVA', '60267461968', 5760.0, '1983-11-10', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('FAUSTINO GARCIA DA SILVA', '08968699976', 9130.0, '1950-05-27', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('SILVAL RIBEIRO', '05536032992', 8194.0, '1997-04-22', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('NILSON DA ROSA', '34007229953', 7910.0, '1982-02-12', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('ENIO JOSE DE FREITAS', '17719984900', 3930.0, '1986-01-18', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('VALTER DOS SANTOS', '24403288987', 8450.0, '1973-07-09', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('THIAGO RIBAS DE MATTOS', '01465849963', 4820.0, '1977-06-09', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('CENIRA BUENO LAGOS', '28315003895', 6398.0, '1981-03-03', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('MARIA JANETE DE LIMA', '81986955915', 11350.0, '1968-08-17', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('OLINDA VERGOPOLAN', '86711407920', 10110.0, '2001-12-30', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('SIMONE FONTOURA', '82663769991', 9432.0, '2001-02-08', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('KELVI LUIZ DE FREITAS', '06420358906', 8170.0, '1976-09-04', 2);
